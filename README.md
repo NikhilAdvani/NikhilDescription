@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/NikhilAdvani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikhil-advani)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:advaninikhil19@gmail.com)
-<-- ![Profile visitors](https://komarev.com/ghpvc/?username=NikhilAdvani&color=blue) -->
+![Profile visitors](https://komarev.com/ghpvc/?username=NikhilAdvani&color=blue)
 
 Experienced AI Engineer passionate about leveraging **Artificial Intelligence**, **Machine Learning**, **Predictive Analytics**, and **Data Mining**  to create real-world impact. Skilled in building **RAG systems**, predictive models, and data pipelines integrating **LLMs**, **Python**, **SQL** and **Cloud technologies**.
 
