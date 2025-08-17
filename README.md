@@ -9,7 +9,7 @@ Experienced AI Engineer passionate about leveraging **Artificial Intelligence**,
 
 - 💼 Currently working as a **AI Research Scientist** at the University at Buffalo, School of Pharmacy and Pharmaceutical Sciences, building an **LLM-powered RAG system** for pharmaceutical compliance and disease recognition.  
 - 🎯 My focus areas include **Data Science**, **Machine Learning**, **Generative AI**, and **Cloud Deployment**.  
-- 🌐 Check out my [portfolio](https://https://nikhiladvani.github.io/).
+- 🌐 Check out my [portfolio](https://nikhiladvani.github.io/).
 
 ---
 
